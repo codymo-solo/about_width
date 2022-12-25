@@ -1,0 +1,26 @@
+.wrapper {
+  background-color: #454545;
+  padding: 20px;
+}
+
+.box {
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 30px;
+  font-size: 40px;
+  font-family: monospace;
+  border-radius: 3px;
+}
+
+.width-box {
+  background-color: tomato;
+}
+
+.max-width-box {
+  background-color: royalblue;
+}
+
+.min-width-box {
+  background-color: limegreen;
+}
